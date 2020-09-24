@@ -1,3 +1,7 @@
+This is a repository for my website. It uses the [Minimal theme](https://github.com/pages-themes/minimal). 
+
+Below is copied from the Minimal theme's README.
+
 # The Minimal theme
 
 [![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
