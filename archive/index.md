@@ -2,12 +2,12 @@
 layout: default
 ---
 
-I am an MA student in the Department of Linguistics at the University of Toronto and planning to begin a PhD program in linguistics in Fall 2022.
+I am a second-year PhD student in the Department of Linguistics at the University of Chicago.
 
-Among other things, I'm interested in morphosyntax (particularly case), language acquisition, experimental syntax and sentence processing, understudied languages, first language acquisition, metalinguistic awareness, grammaticality judgments, and linguistic fieldwork.
+Among other things, I'm interested in formal, experimental, and formal computational approaches to morphosyntax. I am particularly interested in case and agreement, the nominal domain, and (comparative) Germanic morphosyntax &mdash; especially the morphosyntax of Yiddish, which I am currently learning. 
 
 Here's my [CV](../assets/parker_robbins_cv.pdf)!
 
-You can get in touch with me at [firstname].[middleinitial].[lastname]@gmail.com.
+You can get in touch with me at [firstinitial][lastname]@uchicago.edu.
 
-(More content coming soon!)
+(This website is a work in progress. More content coming soon!)
